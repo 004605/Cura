@@ -1,6 +1,6 @@
 {
     "version": 2,
-    "name": "Creality Ender-3 S1",
+    "name": "Creality K1c",
     "inherits": "creality_base",
     "metadata":
     {
